@@ -1,0 +1,18 @@
+.footer{
+  display:flex;
+    position:fixed;
+    height: 67px;
+      outline:auto;
+      width: 98.9%;
+      background: linear-gradient(0.25turn,#9C95DC,#A9E190, #68b0ab,#4A7C59);
+    
+      margin-left: 5px;
+      margin-bottom: 5px;
+      left:0;
+bottom:0;
+right:0;
+font-family: 'DotGothic16' , sans-serif;
+text-align:center;  
+  }
+  
+  

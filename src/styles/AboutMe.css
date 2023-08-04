@@ -1,0 +1,49 @@
+.container{
+height:400px;
+width:500px;
+padding-bottom: 20px;
+padding-right: 0px;
+float: left;
+
+
+}
+
+.container2{
+    display:flex;
+    position: relative;
+    align-content: center;
+    height:400px;
+    width:500px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-right: 100px;
+    float: right;
+}
+
+.paragraph{
+   position: absolute;
+    bottom: auto;
+    margin: 20px ;
+    margin-top:200px;
+    outline:auto;
+    line-height: 1.6;
+    font-family: 'DotGothic16' , sans-serif;
+
+}
+
+.photo{
+    display: flex;
+    position:relative;
+   
+    padding-bottom: 50px;
+    padding-top: 90px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+.title{
+    color: #9C95DC;
+
+}

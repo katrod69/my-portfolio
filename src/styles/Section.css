@@ -1,0 +1,17 @@
+.section {
+    padding: 20px;
+    
+  }
+  
+  .section h2 {
+    text-align: center;
+    opacity: 0.5;
+   
+  }
+
+
+ .app-container{
+  position: relative;
+  
+  
+}
