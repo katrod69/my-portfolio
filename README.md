@@ -10,7 +10,7 @@ To use this repo download the source code and npm i to initialize your node_modu
 This project is a great base to start on to create your own developer portfolio.
 
 ## Credit
-DU instructors and teaching materials
+DU instructors and teaching materials, react-pdf documentation, react documentation, and tailwind documentation.
 
 ## License
 
